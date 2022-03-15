@@ -1,0 +1,6 @@
+import turtle 
+
+screenColor = turtle.Screen()
+
+screenColor.bgcolor(255, 204, 153)
+
